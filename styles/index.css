@@ -1,0 +1,27 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    margin-top: -1.3rem ;
+    background-color:aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 103vh;
+}
+
+.main h1{
+    margin-left: 33rem ;
+    font-family: 'Courier New';
+    
+}
+.main h2{
+    margin: 2rem 0 1rem 40rem;
+    font-family: 'Courier New';
+    font-size: 180%;
+    font-weight: 900;
+}
+#create{
+    margin: 2rem 3rem 0 35rem;
+    
+}
